@@ -227,9 +227,4 @@ By correlating multiple data sources, analysts can move beyond isolated alerts a
 
 ---
 
-## 🚀 Status
-
-Target Machine: **Off**
-Room Completion: **Ready to proceed**
-
 Happy hunting & keep sharpening those blue-team skills 🔵🛡️
